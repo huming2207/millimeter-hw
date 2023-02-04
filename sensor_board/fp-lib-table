@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "JackcoLib")(type "KiCad")(uri "${KIPRJMOD}/../external/jackcolib-kicad/JackcoLib.pretty")(options "")(descr ""))
+)
