@@ -1,3 +1,6 @@
 [submodule "external/jackcolib-kicad"]
 	path = external/jackcolib-kicad
 	url = git@github.com:huming2207/jackcolib-kicad.git
+[submodule "external/esp"]
+	path = external/esp
+	url = https://github.com/espressif/kicad-libraries.git
